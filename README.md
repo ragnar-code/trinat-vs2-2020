@@ -8,8 +8,8 @@ Beyel Jules
 
 ## Trinat Projects
 
-1) Socket: TippDesTagesClient und TippDesTagesServer
-2) Socket: ContestClient
+1) Socket: TippDesTagesClient und TippDesTagesServer          FAIT
+2) Socket: ContestClient                                      FAIT
 3) Threads01: Threads Übungen Teil 1
 (Übung 1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
 4) Threads02: Threads Übungen Teil 2 (Übung 1, 2, 3, 6)
