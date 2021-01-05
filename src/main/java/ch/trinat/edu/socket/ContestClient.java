@@ -15,7 +15,7 @@ public class ContestClient {
                      new InputStreamReader(socket.getInputStream()));) {
 
             String question = reader.readLine();
-            System.out.println("Die Frage lautet: " + question);
+            System.out.println("Voici la question: " + question);
 
 
         } catch (UnknownHostException e) {
@@ -26,7 +26,7 @@ public class ContestClient {
 
         try (Socket socket2 = new Socket("united-portal.com", 9999);
              PrintWriter writer = new PrintWriter(socket2.getOutputStream()) ) {
-            writer.print("Hier kommt dann Ihre Anwort");
+            writer.print("Voici votre réponse");
             writer.close();
         } catch (IOException e) {
             e.printStackTrace();
