@@ -14,7 +14,7 @@ Beyel Jules
 (Übung 1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
 4) Threads02: Threads Übungen Teil 2 (Übung 1, 2, 3, 6)                (erledigt)
 5) Docker: Docker Praktikum – HTML Datei erstellen mit:
-- Link auf Ihr dockerhub für docker-whale
+- Link auf Ihr dockerhub für docker-whale.
 https://hub.docker.com/repository/docker/ragnar9382/docker-whale       (erledigt)
 - Link auf Ihr dockerhub für demo-nginx
 Es erscheint nicht auf Docker Hub aber ich hatte die Arbeit erledigt
